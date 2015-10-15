@@ -1,0 +1,15 @@
+{
+  "name": "curly-succotash",
+  "version": "0.0.0",
+  "authors": [
+    "Data Chand <data.chand@gmail.com>"
+  ],
+  "license": "MPL 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
